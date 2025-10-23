@@ -17,26 +17,27 @@
 | ![eurosport-1-hd] | ![eurosport-2] | ![eurosport-2-hd] | ![eurosport-4k] | ![france-2] | ![france-24] |
 | ![france-3] | ![france-4] | ![france-5] | ![franceinfo] | ![game-one] | ![golf-plus] |
 | ![gulli] | ![histoire-tv] | ![infosport-plus] | ![j-one] | ![kto] | ![la-chaine-meteo] |
-| ![lci] | ![lcp] | ![lequipe] | ![m6] | ![m6-hd] | ![m6-music] |
-| ![mangas] | ![mcm] | ![mcm-pop] | ![mcm-top] | ![melody] | ![mezzo] |
-| ![mezzo-live] | ![mgg-tv] | ![mon-nickelodeon-junior] | ![motorvision-plus] | ![motorvision-tv] | ![multisports-1] |
-| ![multisports-2] | ![multisports-3] | ![multisports-4] | ![multisports-5] | ![multisports-6] | ![multisports] |
-| ![nickelodeon] | ![nickelodeon-junior] | ![nickelodeon-plus] | ![nickelodeon-teen] | ![nolife] | ![non-stop-people] |
-| ![novelas-tv] | ![novo19] | ![nrj-12] | ![nrj-hits] | ![ocs-choc] | ![ocs-city] |
-| ![ocs] | ![ocs-geants] | ![ocs-max] | ![ocs-pulp] | ![ol-tv] | ![olympia-tv] |
-| ![one-tv] | ![paramount-channel-decale] | ![paramount-channel] | ![paris-premiere] | ![pitchoun-tv] | ![piwi-plus] |
-| ![planete-plus-aventure] | ![planete-plus-crime] | ![planete-plus] | ![polar-plus] | ![public-senat] | ![rfm-tv] |
-| ![rmc-decouverte] | ![rmc-sport-1] | ![rmc-sport-1-uhd] | ![rmc-sport-2] | ![rmc-sport-2-uhd] | ![rmc-sport-3] |
-| ![rmc-sport-4] | ![rmc-sport-access-1] | ![rmc-sport-access-2] | ![rmc-sport-access-3] | ![rmc-sport] | ![rmc-sport-live-10] |
-| ![rmc-sport-live-11] | ![rmc-sport-live-12] | ![rmc-sport-live-13] | ![rmc-sport-live-14] | ![rmc-sport-live-15] | ![rmc-sport-live-16] |
-| ![rmc-sport-live-5] | ![rmc-sport-live-6] | ![rmc-sport-live-7] | ![rmc-sport-live-8] | ![rmc-sport-live-9] | ![rmc-sport-news] |
-| ![rmc-story] | ![rt-france] | ![rtl9] | ![rtl9-hd] | ![science-and-vie-tv] | ![seasons] |
-| ![serie-club] | ![sport-en-france] | ![stingray-brava] | ![stingray-djazz] | ![t18] | ![tcm-cinema] |
-| ![teletoon-plus-1] | ![teletoon-plus] | ![teva] | ![tf1] | ![tf1-hd] | ![tf1-plus] |
-| ![tf1-series-films] | ![tfx] | ![tiji] | ![tlc] | ![tmc] | ![tmc-plus] |
-| ![toute-lhistoire] | ![trace-caribbean] | ![trace-latina] | ![trace-sport-stars] | ![trace-urban] | ![trek] |
-| ![tv-breizh] | ![tv5-monde] | ![ultra-nature] | ![ushuaia-tv] | ![w9] | ![warner-tv] |
-| ![warner-tv-next] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![lci] | ![lcp] | ![lequipe] | ![ligue-1plus-10] | ![ligue-1plus-2] | ![ligue-1plus-3] |
+| ![ligue-1plus-4] | ![ligue-1plus-5] | ![ligue-1plus-6] | ![ligue-1plus-7] | ![ligue-1plus-8] | ![ligue-1plus-9] |
+| ![ligue-1plus] | ![m6] | ![m6-hd] | ![m6-music] | ![mangas] | ![mcm] |
+| ![mcm-pop] | ![mcm-top] | ![melody] | ![mezzo] | ![mezzo-live] | ![mgg-tv] |
+| ![mon-nickelodeon-junior] | ![motorvision-plus] | ![motorvision-tv] | ![multisports-1] | ![multisports-2] | ![multisports-3] |
+| ![multisports-4] | ![multisports-5] | ![multisports-6] | ![multisports] | ![nickelodeon] | ![nickelodeon-junior] |
+| ![nickelodeon-plus] | ![nickelodeon-teen] | ![nolife] | ![non-stop-people] | ![novelas-tv] | ![novo19] |
+| ![nrj-12] | ![nrj-hits] | ![ocs-choc] | ![ocs-city] | ![ocs] | ![ocs-geants] |
+| ![ocs-max] | ![ocs-pulp] | ![ol-tv] | ![olympia-tv] | ![one-tv] | ![paramount-channel-decale] |
+| ![paramount-channel] | ![paris-premiere] | ![pitchoun-tv] | ![piwi-plus] | ![planete-plus-aventure] | ![planete-plus-crime] |
+| ![planete-plus] | ![polar-plus] | ![public-senat] | ![rfm-tv] | ![rmc-decouverte] | ![rmc-sport-1] |
+| ![rmc-sport-1-uhd] | ![rmc-sport-2] | ![rmc-sport-2-uhd] | ![rmc-sport-3] | ![rmc-sport-4] | ![rmc-sport-access-1] |
+| ![rmc-sport-access-2] | ![rmc-sport-access-3] | ![rmc-sport] | ![rmc-sport-live-10] | ![rmc-sport-live-11] | ![rmc-sport-live-12] |
+| ![rmc-sport-live-13] | ![rmc-sport-live-14] | ![rmc-sport-live-15] | ![rmc-sport-live-16] | ![rmc-sport-live-5] | ![rmc-sport-live-6] |
+| ![rmc-sport-live-7] | ![rmc-sport-live-8] | ![rmc-sport-live-9] | ![rmc-sport-news] | ![rmc-story] | ![rt-france] |
+| ![rtl9] | ![rtl9-hd] | ![science-and-vie-tv] | ![seasons] | ![serie-club] | ![sport-en-france] |
+| ![stingray-brava] | ![stingray-djazz] | ![t18] | ![tcm-cinema] | ![teletoon-plus-1] | ![teletoon-plus] |
+| ![teva] | ![tf1] | ![tf1-hd] | ![tf1-plus] | ![tf1-series-films] | ![tfx] |
+| ![tiji] | ![tlc] | ![tmc] | ![tmc-plus] | ![toute-lhistoire] | ![trace-caribbean] |
+| ![trace-latina] | ![trace-sport-stars] | ![trace-urban] | ![trek] | ![tv-breizh] | ![tv5-monde] |
+| ![ultra-nature] | ![ushuaia-tv] | ![w9] | ![warner-tv] | ![warner-tv-next] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -139,6 +140,16 @@
 [lci]:lci-fr.png
 [lcp]:lcp-fr.png
 [lequipe]:lequipe-fr.png
+[ligue-1plus-10]:ligue-1plus-10-fr.png
+[ligue-1plus-2]:ligue-1plus-2-fr.png
+[ligue-1plus-3]:ligue-1plus-3-fr.png
+[ligue-1plus-4]:ligue-1plus-4-fr.png
+[ligue-1plus-5]:ligue-1plus-5-fr.png
+[ligue-1plus-6]:ligue-1plus-6-fr.png
+[ligue-1plus-7]:ligue-1plus-7-fr.png
+[ligue-1plus-8]:ligue-1plus-8-fr.png
+[ligue-1plus-9]:ligue-1plus-9-fr.png
+[ligue-1plus]:ligue-1plus-fr.png
 [m6]:m6-fr.png
 [m6-hd]:hd/m6-hd-fr.png
 [m6-music]:m6-music-fr.png

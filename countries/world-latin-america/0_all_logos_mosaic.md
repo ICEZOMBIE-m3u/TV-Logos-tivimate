@@ -21,10 +21,10 @@
 | ![nickelodeon-lam] | ![sony-channel-lam] | ![space-lam] | ![star-action-lam] | ![star-channel-lam] | ![star-cinema-lam] |
 | ![star-classics-lam] | ![star-comedy-lam] | ![star-fun-lam] | ![star-hits-2-lam] | ![star-hits-lam] | ![star-lam] |
 | ![star-life-lam] | ![star-plus-lam] | ![star-premium-lam] | ![star-series-lam] | ![studio-universal-lam] | ![telehit-lam] |
-| ![telehit-musica] | ![telehit-musica-plus] | ![tlnovelas-lam] | ![tnt-novelas-lam] | ![tnt-sports-lam] | ![tnt-sports-premium-lam] |
-| ![tooncast-lam] | ![unicable-lam] | ![universal-cinema-lam] | ![universal-comedy-lam] | ![universal-crime-lam] | ![universal-plus-lam] |
-| ![universal-premiere-lam] | ![universal-reality-lam] | ![universal-tv-lam] | ![usa-network-lam] | ![vix-lam] | ![vix-plus-lam] |
-| ![warner-channel-lam] | ![space] | ![space] | ![space] | ![space] | ![space] |
+| ![telehit-musica] | ![telehit-musica-plus] | ![tlnovelas-lam] | ![tnt-novelas-lam] | ![tnt-series-lam] | ![tnt-sports-lam] |
+| ![tnt-sports-premium-lam] | ![tooncast-lam] | ![unicable-lam] | ![universal-cinema-lam] | ![universal-comedy-lam] | ![universal-crime-lam] |
+| ![universal-plus-lam] | ![universal-premiere-lam] | ![universal-reality-lam] | ![universal-tv-lam] | ![usa-network-lam] | ![vix-lam] |
+| ![vix-plus-lam] | ![warner-channel-lam] | ![space] | ![space] | ![space] | ![space] |
 | ![space] | ![space] | ![space] | ![space] | ![space] | ![space] |
 
 
@@ -152,6 +152,7 @@
 [telehit-musica-plus]:telehit-musica-plus-mx.png
 [tlnovelas-lam]:tlnovelas-lam.png
 [tnt-novelas-lam]:tnt-novelas-lam.png
+[tnt-series-lam]:tnt-series-lam.png
 [tnt-sports-lam]:tnt-sports-lam.png
 [tnt-sports-premium-lam]:tnt-sports-premium-lam.png
 [tooncast-lam]:tooncast-lam.png

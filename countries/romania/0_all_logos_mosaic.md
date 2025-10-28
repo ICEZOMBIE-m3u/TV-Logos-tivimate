@@ -5,8 +5,8 @@
 | ![amc] | ![angelus-tv] | ![animal-planet] | ![antena-1] | ![antena-3-cnn] | ![antena-3-iasi] |
 | ![antena-3] | ![antena-international] | ![antena-stars] | ![arcadia-hd] | ![ardeal-tv] | ![atomic] |
 | ![axn-black] | ![axn] | ![axn-spin] | ![axn-white] | ![b1-tv] | ![balcan-music-tv] |
-| ![bbc-first] | ![bollyshow] | ![bollywood-film] | ![bollywood] | ![bollywood-stars] | ![cbs-reality] |
-| ![cine-maraton] | ![cinema-est] | ![cinemax] | ![cinemax2] | ![comedy-central] | ![comedy-play] |
+| ![bbc-first] | ![bollyshow] | ![bollywood-film] | ![bollywood] | ![cbs-reality] | ![cine-maraton] |
+| ![cinema-est] | ![cinemax] | ![cinemax2] | ![cinestars] | ![comedy-central] | ![comedy-play] |
 | ![credo-tv] | ![da-vinci] | ![digi-24] | ![digi-4k] | ![digi-animal-world] | ![digi-life] |
 | ![digi-sport-1] | ![digi-sport-2] | ![digi-sport-3] | ![digi-sport-4] | ![digi-world] | ![diva] |
 | ![emi-tv] | ![epic-drama] | ![etno] | ![euronews-romania] | ![eurosport-1] | ![eurosport-2] |
@@ -61,12 +61,12 @@
 [bollyshow]:bollyshow-ro.png
 [bollywood-film]:bollywood-film-ro.png
 [bollywood]:bollywood-ro.png
-[bollywood-stars]:bollywood-stars-ro.png
 [cbs-reality]:cbs-reality-ro.png
 [cine-maraton]:cine-maraton-ro.png
 [cinema-est]:cinema-est-ro.png
 [cinemax]:cinemax-ro.png
 [cinemax2]:cinemax2-ro.png
+[cinestars]:cinestars-ro.png
 [comedy-central]:comedy-central-ro.png
 [comedy-play]:comedy-play-ro.png
 [credo-tv]:credo-tv-ro.png
